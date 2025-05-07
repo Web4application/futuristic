@@ -25,7 +25,7 @@ export default function SignUpUserSteps() {
             <Link
               className="text-primary hover:text-foreground"
               href={
-                "https://supabase.com/dashboard/project/_/auth/url-configuration"
+                "https://nextjs-with-supabase-ffr7iifgo-web4apps.vercel.app"
               }
             >
               update your Supabase project
