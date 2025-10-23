@@ -5,3 +5,5 @@ Future<void> main() async {
   await Supabase.initialize(url: supabaseUrl, anonKey: supabaseKey);
   runApp(MyApp());
 }
+
+pip install streamlit langchain-openai
