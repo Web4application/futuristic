@@ -26,7 +26,7 @@ const Page = () => {
         enclov-AI analyzes your diffs, spots issues, and delivers expert-level feedback — all within GitHub.
       </p>
       <a
-        href="https://github.com/Web4application/enclov-AI"
+        href="https://github.com/Web4application/kubuverse"
         target="_blank"
         rel="noopener noreferrer"
         style={{
